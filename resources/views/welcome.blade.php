@@ -31,6 +31,9 @@
                 margin: 0;
                 padding: 20px;
             }
+            p {
+                font-family: 'Hind', sans-serif;
+            }
         </style>
     </head>
     <body>
@@ -53,6 +56,7 @@
                         @endauth
                     </div>
                 @endif
+                <p>You should sign up for the social network so that you can communicate with your friend and or relative.</p>
             </div>
         </div>
     </body>
